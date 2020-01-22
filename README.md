@@ -1,7 +1,7 @@
-#Crumble OS
+# Crumble OS
 A test os targetting x86 cpus.
 
-#Build
+# Build
 To build the operating system, run the following commands.
 
 `mkdir build`
@@ -14,6 +14,7 @@ To build the operating system, run the following commands.
 
 You can find the iso under the iso directory created in the bin folder.
 
-NOTE: Does require extra tools to generate iso files and compile the
-kernel entry assembly. Just install whatever the error messages say
-coult not be found for now.
+# Extra Required Build Tools
++ NASM - Compile assembly
++ grub - Generate iso
++ mtools - Used by grub-mkrescue
