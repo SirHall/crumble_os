@@ -14,4 +14,6 @@ To build the operating system, run the following commands.
 
 You can find the iso under the iso directory created in the bin folder.
 
-TODO: Add required dependencies
+NOTE: Does require extra tools to generate iso files and compile the
+kernel entry assembly. Just install whatever the error messages say
+coult not be found for now.
