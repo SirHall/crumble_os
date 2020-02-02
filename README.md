@@ -18,3 +18,7 @@ You can find the iso under the iso directory created in the bin folder.
 + NASM - Compile assembly
 + grub - Generate iso
 + mtools - Used by grub-mkrescue
+
+# Features
+Nothing, this OS literally does nothing more than boot and display the string 'Crumble OS'.
+
