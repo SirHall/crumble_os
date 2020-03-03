@@ -1,6 +1,6 @@
 void kmain()
 {
-    const char * str    = "Crumble OS";
+    const char * str    = "Downfall OS - VoltionTech";
     char *       vidptr = (char *)0xb8000; // video mem begins here.
     unsigned int i      = 0;
     unsigned int j      = 0;
